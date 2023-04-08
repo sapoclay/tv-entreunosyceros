@@ -56,3 +56,8 @@ En en canal Mitele.py he explicado que hace cada una de las líneas de cada uno 
 - Tivify
 - Twitch
 - Youtube# tv-entreunosyceros
+
+## Limitaciones
+Quien esté pensando en que esto es la panacea, que se olvide. Claro está que se pueden mejorar estas web apps y que actúen como lo hacen con el navegador, pero no con los sencillos pasos que se incluyen en este proyecto. Esto va a servir para tener aplicaciones como YouTube, Pluto TV, Twitch… pero no se pueden descargar archivos, no guarda las contraseñas ni se pueden instalar extensiones.
+
+Lo mejor de esto es que, justamente por ser sólo un visor básico y limitado, la aplicación web consumirá menos recursos. Esto es algo muy básico para que el ordenador no sufra demasiado.
