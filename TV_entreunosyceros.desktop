@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=TV-entreunosyceros
+Icon=/var/www/html/webapp/icono.png
+Exec=python3 /var/www/html/webapp/menu.py
+Terminal=false
+
+
