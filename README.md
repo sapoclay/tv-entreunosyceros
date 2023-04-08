@@ -1,5 +1,7 @@
 # TV_entreunosyceros con Python3
 
+![tv-entreunosyceros-funcionando](https://user-images.githubusercontent.com/6242827/230737797-66e6cb58-2b85-4922-b6a8-d91b26751d50.png)
+
 Este script lo he creado para que funcione en Ubuntu con Python3. Para que todo funcione correctamente, ha sido necesario instalar los siguientes paquetes:
 
 - sudo apt-get install  python3-pyqt5.qtwebengine
